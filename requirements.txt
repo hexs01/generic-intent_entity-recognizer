@@ -1,5 +1,5 @@
-pip install python==3.8
-pip install spektral
-pip install jupyter
-pip install gradio
-pip install spacy
+python==3.8
+spektral
+jupyter
+gradio
+spacy
